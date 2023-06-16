@@ -3,7 +3,7 @@ Hi, I’m Berke Gül<br><br>I'm JUNIOR PLEASE MERCY ME<br><br>I’m still learni
 
 
 <h1 align="center">Hi 👋, I'm Berke Gül</h1>
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
