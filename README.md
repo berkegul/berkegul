@@ -1,8 +1,9 @@
 # 💫 About Me:
-Hi, I’m Berke Gül<br><br>I'm JUNIOR PLEASE MERCY ME<br><br>I’m still learning ...
-
-
 <h1 align="center">Hi 👋, I'm Berke Gül</h1>
+<br><br>I'm JUNIOR PLEASE MERCY ME<br><br>I’m still learning ...
+
+
+
 
 <p align="left">
 </p>
