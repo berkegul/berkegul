@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning .Net<br>🎯 Goals: Full Stack<br>🎲 Fun fact: Dev</p>
+<p align="left">✨ Creating bugs since 2021 <br> im still creating bug 2025 </br> <br>📚 I'm currently learning .Net<br>🎯 Goals: Full Stack<br>🎲 Fun fact: Dev</p>
 
 ###
 
