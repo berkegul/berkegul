@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">✨ Creating bugs since 2021 <br> ✨ i m still creating bug 2025 </br>
+<p align="center" style="bold">✨ Creating bugs since 2021 <br> ✨ i m still creating bug 2025 </br>
 
 ###
 
