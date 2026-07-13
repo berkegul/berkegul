@@ -3,5 +3,5 @@
 </div>
 <p align="center">
   <strong>✨ Creating bugs since 2021</strong><br>
-  <strong>✨ Still creating bugs in 2025</strong>
+  <strong>✨ Still creating bugs in 2026</strong>
 </p>
